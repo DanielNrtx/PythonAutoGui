@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "McGrawHillSolver", "McGrawHillSolver\McGrawHillSolver.pyproj", "{99DF3BF2-F7E0-43A8-B383-2E306F78F873}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99DF3BF2-F7E0-43A8-B383-2E306F78F873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99DF3BF2-F7E0-43A8-B383-2E306F78F873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76F689C6-2A99-4066-87F6-D8FBD69702DB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\source\\repos\\PythonAIProjects\\McGrawHillSolver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF3BF2-F7E0-43A8-B383-2E306F78F873}|McGrawHillSolver\\McGrawHillSolver.pyproj|C:\\Users\\danie\\source\\repos\\PythonAIProjects\\McGrawHillSolver\\McGrawHillSolver\\McGrawHillSolver.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{99DF3BF2-F7E0-43A8-B383-2E306F78F873}|McGrawHillSolver\\McGrawHillSolver.pyproj|solutionrelative:McGrawHillSolver\\McGrawHillSolver.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF3BF2-F7E0-43A8-B383-2E306F78F873}|McGrawHillSolver\\McGrawHillSolver.pyproj|C:\\Users\\danie\\source\\repos\\PythonAIProjects\\McGrawHillSolver\\McGrawHillSolver\\homework_bot.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{99DF3BF2-F7E0-43A8-B383-2E306F78F873}|McGrawHillSolver\\McGrawHillSolver.pyproj|solutionrelative:McGrawHillSolver\\homework_bot.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF3BF2-F7E0-43A8-B383-2E306F78F873}|McGrawHillSolver\\McGrawHillSolver.pyproj|C:\\Users\\danie\\source\\repos\\PythonAIProjects\\McGrawHillSolver\\McGrawHillSolver\\chat_connector.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{99DF3BF2-F7E0-43A8-B383-2E306F78F873}|McGrawHillSolver\\McGrawHillSolver.pyproj|solutionrelative:McGrawHillSolver\\chat_connector.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DF3BF2-F7E0-43A8-B383-2E306F78F873}|McGrawHillSolver\\McGrawHillSolver.pyproj|C:\\Users\\danie\\source\\repos\\PythonAIProjects\\McGrawHillSolver\\McGrawHillSolver\\vision_helper.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{99DF3BF2-F7E0-43A8-B383-2E306F78F873}|McGrawHillSolver\\McGrawHillSolver.pyproj|solutionrelative:McGrawHillSolver\\vision_helper.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "McGrawHillSolver.py",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\PythonAIProjects\\McGrawHillSolver\\McGrawHillSolver\\McGrawHillSolver.py",
+              "RelativeDocumentMoniker": "McGrawHillSolver\\McGrawHillSolver.py",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\PythonAIProjects\\McGrawHillSolver\\McGrawHillSolver\\McGrawHillSolver.py",
+              "RelativeToolTip": "McGrawHillSolver\\McGrawHillSolver.py",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvwUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-27T00:32:24.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "homework_bot.py",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\PythonAIProjects\\McGrawHillSolver\\McGrawHillSolver\\homework_bot.py",
+              "RelativeDocumentMoniker": "McGrawHillSolver\\homework_bot.py",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\PythonAIProjects\\McGrawHillSolver\\McGrawHillSolver\\homework_bot.py",
+              "RelativeToolTip": "McGrawHillSolver\\homework_bot.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-27T00:34:06.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vision_helper.py",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\PythonAIProjects\\McGrawHillSolver\\McGrawHillSolver\\vision_helper.py",
+              "RelativeDocumentMoniker": "McGrawHillSolver\\vision_helper.py",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\PythonAIProjects\\McGrawHillSolver\\McGrawHillSolver\\vision_helper.py",
+              "RelativeToolTip": "McGrawHillSolver\\vision_helper.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-27T00:34:38.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "chat_connector.py",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\PythonAIProjects\\McGrawHillSolver\\McGrawHillSolver\\chat_connector.py",
+              "RelativeDocumentMoniker": "McGrawHillSolver\\chat_connector.py",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\PythonAIProjects\\McGrawHillSolver\\McGrawHillSolver\\chat_connector.py",
+              "RelativeToolTip": "McGrawHillSolver\\chat_connector.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-27T00:32:47.072Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
